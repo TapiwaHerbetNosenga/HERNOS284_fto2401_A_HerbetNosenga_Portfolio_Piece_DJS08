@@ -1,6 +1,9 @@
 # DJS08 Project Brief: React Router 
 
-🎥 INSERT LOOM PRESENTATION LINK: [Here]
+🎥 INSERT LOOM PRESENTATION LINK: [https://www.loom.com/share/da529fd545184611ad4c18aab6d7deec
+
+https://www.loom.com/share/351bb84139fc4e38baf496f2f5fb5c20
+]
 
 After cloning the repo, run `npm install` to install the dependencies 
 
